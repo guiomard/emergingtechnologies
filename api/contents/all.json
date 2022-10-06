@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-10-06T10:15:31.447417Z",
+      "format": null,
+      "last_modified": "2022-10-06T10:15:10.975256Z",
+      "mimetype": null,
+      "name": "plotly-test.ipynb",
+      "path": "plotly-test.ipynb",
+      "size": 3699292,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-10-06T10:15:31.443416Z",
+      "format": null,
+      "last_modified": "2022-10-06T10:15:29.459401Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 6777,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-10-06T10:15:31.443416Z",
+  "format": "json",
+  "last_modified": "2022-10-06T10:15:31.443416Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
