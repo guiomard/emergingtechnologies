@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-10-06T10:42:04.963955Z",
+      "created": "2022-10-06T12:11:51.249816Z",
       "format": null,
-      "last_modified": "2022-10-06T10:41:40.631509Z",
+      "last_modified": "2022-10-06T12:11:30.213604Z",
       "mimetype": null,
       "name": "plotly-test.ipynb",
       "path": "plotly-test.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-10-06T10:42:04.959955Z",
+      "created": "2022-10-06T12:11:51.245816Z",
       "format": null,
-      "last_modified": "2022-10-06T10:42:02.367908Z",
+      "last_modified": "2022-10-06T12:11:49.225718Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-10-06T10:42:04.959955Z",
+  "created": "2022-10-06T12:11:51.245816Z",
   "format": "json",
-  "last_modified": "2022-10-06T10:42:04.959955Z",
+  "last_modified": "2022-10-06T12:11:51.245816Z",
   "mimetype": null,
   "name": "",
   "path": "",
